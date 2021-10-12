@@ -10,7 +10,6 @@ SalesForceの経費入力の際、使用する機会の多い通勤費、交通�
 ・VB.NET
 ・Vidual Studio2019
 ・Github
-・Notion
 
 使用ライブラリ
 ・Selenium
@@ -39,7 +38,7 @@ SalesForceの経費入力の際、使用する機会の多い通勤費、交通�
 ・Chromeのアップデートに伴い、ChromeDriverの更新を行う必要があります。
 　VisualStudioのソリューションエクスプローラー⇒参照⇒NuGetパッケージの管理からSelenium.WebDriver.ChromeDriverをバージョンアップすることで対応可能です。
 　
-・更新を行う際はkeihi_setupを下記のURLからダウンロードし、既存のkeihiアプリをアンインストールしてからsetup.exeを実行してください
+・更新を行う際はファイルを下記のURLからダウンロード（Code⇒Download Zip)し、既存のkeihiアプリをアンインストールしてからsetup.exeを実行してください
 　セットアップ
 　https://github.com/gio15153/keihi_setup
 　
